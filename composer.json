@@ -1,0 +1,16 @@
+{
+  "description": "A Guideline (CodeIgniter3) create page permissions with Hooks (Extending the Framework Core)",
+  "name": "pongkot/codeigniter-app",
+  "type": "project",
+  "require": {
+	"php": ">=7.4",
+	"maciejczyzewski/bottomline": "^0.2.0",
+	"ext-json": "*"
+  },
+  "suggest": {
+	"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+  },
+  "require-dev": {
+	"phpunit/phpunit": "4.* || 5.*"
+  }
+}
